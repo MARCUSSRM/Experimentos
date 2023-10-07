@@ -1,0 +1,19 @@
+.home__principal {
+  display: flex;
+  justify-content: center;
+  align-itens: center;
+  padding: 20px;
+}
+
+.botao__poema-item {
+  padding: 20px;
+  background-color: var(--cinza-escuro);
+  color: var(--branco);
+  padding: 10px;
+}
+
+.botao__poema-link {
+  padding: 20px;
+  text-decoration: none;
+  color: var(--branco);
+}

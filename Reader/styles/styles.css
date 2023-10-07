@@ -1,0 +1,20 @@
+/* Importando os demais arquivos CSS do site */
+@import url("reset.css");
+@import url("header.css");
+@import url("main.css");
+@import url("content.css");
+
+/* Criando variáveis em CSS */
+:root {
+  --preto: #000000;
+  --cinza-escuro: #353535;
+  --branco: #ffffff;
+  --laranja-avermelhada: #FF4500;
+  --fonte-principal: "Arial";
+}
+
+/* Este body servirá para todas as páginas  */
+body {
+  background-color: var(--preto);
+  color: var(--branco);
+}

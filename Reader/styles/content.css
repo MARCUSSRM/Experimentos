@@ -1,0 +1,18 @@
+.content__main {
+  padding: 30px;
+}
+
+.content__titulo {
+  color: var(--laranja-avermelhada);
+  font-family: var(--fonte-principal);
+  font-size: 2em;
+  margin-bottom: 25px;
+}
+
+.content__paragrafo {
+  color: var(--laranja-avermelhada);
+  font-family: var(--fonte-principal);
+  font-size: 1.2em;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
