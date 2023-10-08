@@ -1,9 +1,13 @@
-.content__header {
+header {
   background-color: var(--cinza-escuro);
-  padding: 50px;
+  padding: 25px 15px;
 }
 
-.content__header--botao-voltar {
+.header__titulo {
+  color: var(--laranja-avermelhada);
+}
+
+.contents__header--botao-voltar {
   background-color: var(--preto);
   color: var(--branco);
   padding: 25px;

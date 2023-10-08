@@ -7,9 +7,10 @@
 /* Criando variáveis em CSS */
 :root {
   --preto: #000000;
-  --cinza-escuro: #353535;
+  --cinza-escuro: #0e0c0b;
+  --cinza-medio: #1a1a19;
   --branco: #ffffff;
-  --laranja-avermelhada: #FF4500;
+  --laranja-avermelhada: #df5320; /* cor matriz: #FF4500 */
   --fonte-principal: "Arial";
 }
 
